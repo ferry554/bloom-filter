@@ -1,1 +1,1 @@
-a very simple bloom filter writen in C.
+a very simple bloom filter written in C.
